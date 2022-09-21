@@ -1,0 +1,28 @@
+@charset "UTF8";
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #C48887, #EBA3A2);
+}
+main{
+    background-color: rgba(255, 255, 255, 0.555);
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px #5E4241;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1 {
+    color: #5E4241;
+    text-align: center;
+    text-shadow:  1px 1px 2px, black;
+}
+h2{
+    color: #9E6E6D;
+}
+p {
+    text-align: justify;
+
+}
